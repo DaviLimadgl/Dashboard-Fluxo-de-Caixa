@@ -7,4 +7,5 @@ Essa dashboard faz parte das vídeo aulas no
 Para visualizar esta dashboard, 
 [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiYTIwNWQ0OTQtNTBkNC00ODczLTg2NGMtN2EwMjE5YTg3YTI3IiwidCI6Ijc1Y2IwZTc4LTg5NzMtNDdmMi1iYTQxLTJhMWIwOTRkMTFmMiJ9&pageName=ReportSection )
 
-
+Relacionamento utilizado neste projeto:
+![imagem]
